@@ -14,3 +14,8 @@ Lista Demarcada
 * Computador
 * Mouse
 * Teclado
+
+listas de Tarefa
+- [x] Criar um Github
+- [] Criar um curriculo
+- [] Criar um Portfolio
