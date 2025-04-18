@@ -4,19 +4,19 @@
 ## Comandos da Linguagem MarkDown
 ---
 
- _*lista Numeradas_*
+ __*lista Numeradas*__
 
  1. Computador
  2. Mouse
  3. Teclaco
 
-_*Lista Demarcada_*
+__*Lista Demarcada*__
 
 * Computador
 * Mouse
 * Teclado
 
-_*listas de Tarefa_*
+__*listas de Tarefa*__
 - [x] Criar um Github
 - [] Criar um curriculo
 - [] Criar um Portfolio
