@@ -20,3 +20,8 @@ __*listas de Tarefa*__
 - [x] Criar um Github
 - [] Criar um curriculo
 - [] Criar um Portfolio
+
+  __*Tabelas*__
+  Num | Nome | Nota
+  --- | --- | --- |
+  1|Otavio|9,6
